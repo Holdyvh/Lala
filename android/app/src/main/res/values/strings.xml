@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lala Assistant</string>
+    <string name="assistant_welcome">Hola, soy Lala. ¿En qué puedo ayudarte?</string>
+    <string name="wake_word">Hey Lala</string>
+    <string name="listening">Escuchando...</string>
+    <string name="processing">Procesando...</string>
+    <string name="speak_now">Habla ahora</string>
+    <string name="voice_recognition_failed">No pude entender lo que dijiste</string>
+    <string name="network_unavailable">Sin conexión a Internet</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_history">Historial</string>
+    <string name="action_help">Ayuda</string>
+    <string name="settings_voice">Configuración de voz</string>
+    <string name="settings_appearance">Apariencia</string>
+    <string name="settings_notifications">Notificaciones</string>
+    <string name="settings_background">Operación en segundo plano</string>
+    <string name="enable_voice_activation">Activar por voz</string>
+    <string name="background_listening">Escuchar en segundo plano</string>
+    <string name="battery_saver_mode">Modo ahorro de batería</string>
+    <string name="sync_when_online">Sincronizar cuando hay conexión</string>
+    <string name="feedback_title">¿Fue útil mi respuesta?</string>
+    <string name="feedback_yes">Sí</string>
+    <string name="feedback_no">No</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="try_again">Intentar nuevamente</string>
+</resources>
